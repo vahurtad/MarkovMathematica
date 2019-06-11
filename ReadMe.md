@@ -2,12 +2,12 @@
 Following this introduction to Markov Models but using Mathematica
 [Intro to Markov Models with Swift](https://www.twilio.com/blog/intro-to-markov-models-with-swift)
 ### Histogram
-![Histogram](Histogram.jpg)
+![Histogram](Histogram.JPG)
 
 ### States
-![Histogram](States.jpg)
+![States](States.JPG)
 
 ### States with no Duplicates
-![Histogram](StatesnoDupes.jpg)
+![StatesnoDupes](StatesnoDupes.JPG)
 
 
